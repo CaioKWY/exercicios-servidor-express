@@ -54,7 +54,7 @@ Aqui é retornado a lista de livros.
 
 ![lista-antes](https://github.com/CaioKWY/exercicios-servidor-express/assets/118061068/43a17212-58a9-4057-9d4b-3e6ff451d864)
 
-Aqui sera adiciona a lista de livros os dados enviados no body.
+Aqui sera adicionado a lista de livros os dados enviados no body.
 
 ![postar](https://github.com/CaioKWY/exercicios-servidor-express/assets/118061068/0a637895-05c0-4788-bc1e-7d132a6396fb)
 
